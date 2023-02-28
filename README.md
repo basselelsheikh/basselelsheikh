@@ -6,9 +6,9 @@
 I'm a senior at Faculty of Engineering, Alexandria University
 
 
-🧠 I'm currently learning Web Development
+🧠 I'm a sofware developer
 ## 🛠 Skills
-Javascript, HTML, CSS, Python, Django, C 
+c#, ASP.NET Core, Javascript, HTML, CSS
 
 
 ## 🔗 Links
