@@ -8,7 +8,7 @@ I'm a senior at Faculty of Engineering, Alexandria University
 
 🧠 I'm a sofware developer
 ## 🛠 Skills
-c#, ASP.NET Core, Javascript, HTML, CSS
+C#, ASP.NET Core, Javascript, HTML, CSS
 
 
 ## 🔗 Links
